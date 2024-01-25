@@ -1,4 +1,4 @@
-
+![istockphoto-1028847418-612x612](https://github.com/jenifermjues/Cardiac-Rehabilitation-Recommendation-Prediction/assets/102522931/3c3dc87d-c649-475c-bd2a-a071193d93cf)
 
 # Cardiac Rehabilitation Recommendation Prediction
 
